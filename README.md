@@ -1,1 +1,2 @@
 # automationrepo
+tesng patterns
